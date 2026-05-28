@@ -2,7 +2,7 @@ from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QPushButton, QVBoxLay
 from PyQt5.QtCore import Qt
 
 # Constantes
-ANCHO, ALTO = 900, 600 
+ANCHO, ALTO = 700, 400 
 WIN_TITLE = 'Marcador de Pádel'
 
 class MainWindow(QWidget):
